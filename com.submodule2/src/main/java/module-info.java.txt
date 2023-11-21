@@ -1,0 +1,7 @@
+module com.submodule2 {
+
+    exports com.submodule2;
+
+    requires com.submodule1;
+
+}

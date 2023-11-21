@@ -1,0 +1,5 @@
+module com.submodule1 {
+
+    exports com.submodule1;
+
+}
